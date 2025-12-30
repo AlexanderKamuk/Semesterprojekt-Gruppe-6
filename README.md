@@ -4,4 +4,4 @@ The repository is organised with a folder containing software for the track driv
 
 The track driving folder contains a main loop and relevant software to make the robot follow the marked track.
 
-The logistics folder contains software for track driving, detection, electromagnet activation, and actuator control
+The logistics folder contains software for track driving, detection, electromagnet activation, and actuator control.
